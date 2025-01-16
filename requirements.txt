@@ -4,3 +4,4 @@ transformers
 Pillow
 matplotlib
 streamlit
+accelerate
